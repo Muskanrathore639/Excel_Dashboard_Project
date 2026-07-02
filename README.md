@@ -23,10 +23,8 @@ The objective of this project is to analyze data, identify trends, and present f
 - User-friendly layout
 
 ## 📂 Project Files
-- `Dashboard.xlsx` – Main Excel dashboard file
-- `Dataset.xlsx` / `Dataset.csv` – Source dataset
-- `project.xml` – Project XML file
-- `Dashboard-Screenshot.png` – Dashboard preview image
+- `MY FIRST DASHBOARD.xlsx` – Main Excel dashboard file
+- `Dashboard data.xlsx` – Source dataset
 
 ## 🚀 Skills Demonstrated
 - Data Cleaning
@@ -36,8 +34,6 @@ The objective of this project is to analyze data, identify trends, and present f
 - Reporting
 - Business Insights
 
-## 📷 Dashboard Preview
-(Add a screenshot of your dashboard here after uploading it to GitHub.)
 
 ## 📚 Learning Outcomes
 Through this project, I gained practical experience in:
